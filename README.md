@@ -12,5 +12,3 @@
 ![image](https://github.com/user-attachments/assets/94da38e7-cdde-4906-a2a1-cc605f5ec056)
 ![image](https://github.com/user-attachments/assets/27b10222-93d9-4bfc-95ad-8311c1c6989b)
 ![제목 없음](https://github.com/user-attachments/assets/f89a93ac-d0c8-45a6-b0ce-c13856b3da5b)
-
-

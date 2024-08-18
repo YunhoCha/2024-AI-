@@ -33,6 +33,8 @@
 - ![image](https://github.com/user-attachments/assets/35c518c5-0637-40b2-96dc-62a17939dad7)<br><br>
 5. 세 번째 셀에서 ID 입력할 때 스크래핑 할 신문 기사의 첫 아이디 입력 후 엔터, 마지막 아이디 입력 후 엔터
 
+<div style="margin: 0 auto; width: fit-content;">
+
 | 신문 제목 | 처음 아이디 | 마지막 아이디 |
 |----------|----------|----------|
 | 독립신문 영문판 | 00093088662 | 00093105675 |
@@ -40,5 +42,6 @@
 | Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
 | Row 4, Column 1 | Row 4, Column 2 | Row 4, Column 3 |
 
-  
+</div>
+
 </details>

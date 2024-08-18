@@ -45,3 +45,18 @@
 </div>
 
 </details>
+<br><br>
+<details>
+  <summary>세번째 방법</summary>
+  
+### 3) 텍스트 데이터 분석
+#### (1)**왜 데이터프레임인가?** : 컴퓨터로 분석할 때에는 '정형 데이터'가 명령하기 수월하다. 
+![image](https://github.com/user-attachments/assets/0b2541d5-cbfe-4ac8-b64b-58bf2a7b1668)
+출처 : 유인태, 한문 고전 텍스트와 데이터 처리(한림 DH 워크숍 시리즈), 2024.7.3.
+<br>
+#### (2) ChatGPT로 **데이터 프레임** 수정하기 
+
+</details>
+
+
+

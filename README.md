@@ -9,7 +9,6 @@
 - ChatGPT를 활용하여 신문 영어 텍스트 분석하기(텍스트마이닝)
 - ChatGPT를 활용하여 역사 수치 데이터 분석하기(통계분석)
 
-  
 <br><br>
 ## 1. 신문 아카이브에서 자료수집
 <details>
@@ -20,5 +19,13 @@
 ![image](https://github.com/user-attachments/assets/27b10222-93d9-4bfc-95ad-8311c1c6989b)
 ![제목 없음](https://github.com/user-attachments/assets/f89a93ac-d0c8-45a6-b0ce-c13856b3da5b)
 
+  
+</details>
+<details>
+  <summary>두번째 방법</summary>
+  
+### 2) 스크래핑 코드 사용법 
+1. 본 깃허브 페이지 상단의 file 중 '신문아카이브_스크래핑_코드.ipynb' 클릭
+2. 'google colab'으로 열기 클릭
   
 </details>

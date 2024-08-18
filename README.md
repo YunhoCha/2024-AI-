@@ -25,12 +25,12 @@
   <summary>두번째 방법</summary>
   
 ### 2) 스크래핑 코드 사용법 
-1. 본 깃허브 페이지 상단의 file 중 '신문아카이브_스크래핑_코드.ipynb' 클릭
-2. **'open in colab'** 클릭
+1. 본 깃허브 페이지 상단의 file 중 '신문아카이브_스크래핑_코드.ipynb' 클릭<br><br>
+2. **'open in colab'** 클릭<br><br>
 3. 좌측 파일 마크 클릭
-- ![image](https://github.com/user-attachments/assets/3966fb80-75ec-4ca2-8700-bf466fd840a7)
+- ![image](https://github.com/user-attachments/assets/3966fb80-75ec-4ca2-8700-bf466fd840a7)<br><br>
 4. 차례대로 셀 실행 버튼 클릭(셀 하나가 완료되면 다음 셀 실행)
-- ![image](https://github.com/user-attachments/assets/35c518c5-0637-40b2-96dc-62a17939dad7)
+- ![image](https://github.com/user-attachments/assets/35c518c5-0637-40b2-96dc-62a17939dad7)<br><br>
 5. 세 번째 셀에서 ID 입력할 때 스크래핑 할 신문 기사의 첫 아이디 입력 후 엔터, 마지막 아이디 입력 후 엔터
 
 | 신문 제목 | 처음 아이디 | 마지막 아이디 |
